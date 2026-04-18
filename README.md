@@ -6,6 +6,7 @@
 
 ---
 
+<!-- 
 ### 🌑 <samp>The Shadow Realm</samp>
 
 Operating at the intersection of architecture and invisibility. Building systems that are as robust as they are silent.
@@ -21,8 +22,7 @@ $ curl -s https://nullcove.com/status
   "focus": ["Arch Linux", "Automation", "Security"]
 }
 ```
-
----
+-->
 
 ### 📊 <samp>Activity Metrics</samp>
 
