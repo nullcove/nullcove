@@ -24,6 +24,19 @@ $ curl -s https://nullcove.com/status
 
 ---
 
+### 📊 <samp>Activity Metrics</samp>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nullcove&theme=react-dark&bg_color=000000&color=00D1D1&line=00D1D1&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nullcove&show_icons=true&theme=dark&bg_color=000000&title_color=00D1D1&text_color=FFFFFF&icon_color=00D1D1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nullcove&theme=dark&background=000000&stroke=00D1D1&ring=00D1D1&fire=00D1D1&currStreakLabel=00D1D1" />
+</p>
+
+---
+
 ### 🛡 <samp>Arsenal</samp>
 
 <p align="center">
@@ -31,10 +44,7 @@ $ curl -s https://nullcove.com/status
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nullcove&show_icons=true&theme=dark&bg_color=000000&title_color=00D1D1&text_color=FFFFFF&icon_color=00D1D1" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
